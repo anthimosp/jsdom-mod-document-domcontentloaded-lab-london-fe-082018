@@ -1,2 +1,2 @@
 /* code goes here */
-document. querySelector()
+document. querySelector(div#)
